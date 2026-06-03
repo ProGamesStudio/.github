@@ -36,7 +36,7 @@ But freedom comes with responsibility: to the player, who deserves an honest exp
 ## Projects
 | Project | Status | Description |
 |---|---|---|
-| *Coming soon* | In development | Announcement coming. |
+| [*Beyond the Quarks*](https://github.com/ProGamesStudio/BeyondTheQuarks) | In development | A multiverse survival adventure: fix your wormhole device piece by piece, hopping across alien realities until you can finally return home. |
 
 ## Contact
 Got ideas, feedback, or just want to talk about games?
